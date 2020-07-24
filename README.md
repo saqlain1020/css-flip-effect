@@ -8,17 +8,16 @@ Html CSS Flip Card Effect Advanced 3D
 </ul>
 <br>
 <i>
-  <code>
-    <div class="flip-container">
+  
+    ```<div class="flip-container">
         <div class="flip-card">
             <div class="flip-card-front"><div class="flip-content">
-                Fron Matter
+                Front Matter
             </div></div>
             <div class="flip-card-back"><div class="flip-content">
                 Back Matter
             </div></div>
         </div>
-    </div>
-  </code>
+    </div>```
+    
 </i>
-
